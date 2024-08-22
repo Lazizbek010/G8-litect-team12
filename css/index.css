@@ -1,0 +1,77 @@
+.Banner{
+      background-image: url(..//imges/Banner.svg);
+      height: 433px;
+      background-size: cover;
+      text-align: center;
+      padding: 70px 0;
+}
+
+
+
+.TextImg h1{
+      font-size: 50px;
+      font-family: sans-serif;
+      color: white;
+}
+
+
+.TextImg p{
+      color: white;
+      font-size: 14px;
+      font-family: sans-serif;
+}
+
+
+.Img .ImgCart{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 40px;
+}
+
+
+.TextImg {
+      margin-bottom: 45px;
+}
+
+.Img .ImgCart h5{
+      color: white;
+      font-family: sans-serif;
+}
+
+
+.Img .Banner_btn{
+      text-align: center;
+      color: white;
+      background: transparent;
+      border: 1px solid white;
+      border-radius: 3px;
+      font-size: 17px;
+      margin-top: 20px;
+      padding: 8px 20px;
+}
+
+.Img .Topchklar{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      margin-top: 90px;
+}
+
+
+.Img .Topchklar .topchka{
+      width: 12px;
+      height: 12px;
+      background: white;
+      border-radius: 50%;
+}
+
+
+.Img .Topchklar .topchkas{
+      width: 20px;
+      height: 20px;
+      background: white;
+      border-radius: 50%;
+}
+
