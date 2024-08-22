@@ -1,11 +1,4 @@
-/* body {
-        /* font-family: Arial, sans-serif;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        margin: 0; */
-    /* }  */
+
     
     .property-card {
         background-color: #fff;
@@ -29,8 +22,7 @@
         display: flex;
         gap: 30px;
     }
-    .property-card{
-    }
+  
     
     .card-header {
         position: relative;
